@@ -13,7 +13,7 @@
 
 ## 📥 Download the Full Report
 
-[![Download Full Report](https://img.shields.io/badge/Download-Full%20Report%20.docx-orange?style=for-the-badge&logo=microsoftword)](./report/AI-Supply-Chain-Attack-Report.docx)
+[![Download Full Report](https://img.shields.io/badge/Download-Full%20Report%20.pdf-red?style=for-the-badge&logo=adobeacrobatreader)](./AI-Supply-Chain-Attack-Report.pdf)
 
 > Full technical + beginner-friendly analysis — attack chain, detection, defense, glossary. Everything.
 
